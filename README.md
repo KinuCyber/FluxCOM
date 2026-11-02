@@ -2,6 +2,14 @@
 
 Minecraft-Fluxer bridge plugin.
 
+## Repoistories
+
+Canonical repository: https://git.sr.ht/~kinucyber/FluxCOM
+
+Mirror repositories:
+- GitHub: https://github.com/KinuCyber/FluxCOM
+- Codeberg: https://codeberg.org/KinuCyber/FluxCOM
+
 ## Features
 
 - **Bidirectional Chat Bridge**
